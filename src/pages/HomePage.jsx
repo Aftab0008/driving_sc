@@ -722,7 +722,7 @@ function HomePage() {
   {
   icon: MessageCircleMore,
   title: "Whatsapp",
-  info: "Message For any Queary",
+  info: "Message On It For any Queary",
   description: "We reply within 24 hours",
   href: "https://chat.whatsapp.com/HCphz5X53Bi1O6449trKyc"
 }
@@ -828,7 +828,7 @@ function HomePage() {
               <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
               <div className="space-y-2 text-gray-300">
                 <p>9135156440</p>
-                <p>Whatsapp Sms</p>
+                <p>mafiyamood@gmail.com</p>
                 <p> Driving School, Patna, Bihar</p>
               </div>
             </motion.div>
