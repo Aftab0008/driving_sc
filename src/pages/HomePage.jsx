@@ -722,7 +722,7 @@ function HomePage() {
   {
   icon: MessageCircleMore,
   title: "Whatsapp",
-  info: "Message On It For any Queary",
+  info: "Message For any Queary",
   description: "We reply within 24 hours",
   href: "https://chat.whatsapp.com/HCphz5X53Bi1O6449trKyc"
 }
